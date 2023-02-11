@@ -3,7 +3,11 @@ h1{
     color: aliceblue;
 }
 h1:hover{
-    background-color: rgb(87, 31, 31);
+    background-color:cornflowerblue;
     color: rgb(2, 44, 44);
 
+}
+aside ol a{
+    display: inline;
+    margin: 10px;
 }
